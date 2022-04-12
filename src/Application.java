@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Application {
-
+//***********************************************************************
     // глобални - променливи функционални
     public static Scanner inputScanner    = new Scanner(System.in);
     public static Random randomGenerator  = new Random();
